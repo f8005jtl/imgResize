@@ -1,0 +1,2 @@
+# imgResize
+glob使ってしまった、
