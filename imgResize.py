@@ -1,5 +1,5 @@
 """
-画像を一括リサイズするプログラム SambeMemo
+画像を一括リサイズするプログラム　めも
 参考:https://note.nkmk.me/python-pillow-image-resize/
 使い方：
 1. dirディレクトリを作る
